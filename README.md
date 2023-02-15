@@ -31,6 +31,7 @@
 </div>
 
 ###제 이력서가 궁금하시다면 [여기](https://github.com/blackhane/resume)를 눌러주세요.
-
+[![Solved.ac
+black_hana](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackhane)](https://github.com/anuraghazra/github-readme-stats)
 
