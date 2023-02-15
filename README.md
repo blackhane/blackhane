@@ -1,7 +1,7 @@
 ### 개발자 공부를 하고 있는 박진휘의 깃허브입니다.
 ### 최근에는 SpringBoot 기반의 백엔드 공부하고 있습니다.
 ### 주 사용 언어 및 기술은 
-### <img src="https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+### <img src="https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 ### 프론트엔드: HTML, CSS, JavaScript
 ### 백엔드: JSP, SpringBoot
 ### 데이터베이스: MySql, MariaDB, MyBatis, JPA
