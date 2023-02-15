@@ -33,8 +33,8 @@
 ###제 이력서가 궁금하시다면 [여기](https://github.com/blackhane/resume)를 눌러주세요~
 
 <div align="center">
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=black_hana)](https://solved.ac/black_hana)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=black_hana)](https://solved.ac/black_hana)
 </div>
 
 <div align="center">
