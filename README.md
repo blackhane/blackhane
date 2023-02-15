@@ -1,6 +1,11 @@
 ### 개발자 공부를 하고 있는 박진휘의 깃허브입니다.
 ### 최근에는 SpringBoot 기반의 백엔드 공부하고 있습니다.
-### 주 사용 언어 및 기술은 Java, Python, HTML, CSS, JavaScript, JSP, SpringBoot, MySql, MariaDB, MyBatis, JPA, AWS, Linux 입니다.
+### 주 사용 언어 및 기술은 
+### 언어: Java, Python
+### 프론트엔드: HTML, CSS, JavaScript
+### 백엔드: JSP, SpringBoot
+### 데이터베이스: MySql, MariaDB, MyBatis, JPA
+### 배포: AWS, Linux 입니다.
 ### 제 이력서가 궁금하시다면 [여기](https://github.com/blackhane/resume)를 눌러주세요.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackhane)](https://github.com/anuraghazra/github-readme-stats)
