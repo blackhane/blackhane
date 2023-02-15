@@ -30,12 +30,18 @@
 <img src="https://img.shields.io/badge/JPA-6E6E6E?style=for-the-badge&logoColor=white">
 </div>
 
-###제 이력서가 궁금하시다면 [여기](https://github.com/blackhane/resume)를 눌러주세요.
+###제 이력서가 궁금하시다면 [여기](https://github.com/blackhane/resume)를 눌러주세요~
 
+<div align="center">
+  [![Solved.ac
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=black_hana)](https://solved.ac/black_hana)
+</div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=black_hana)](https://solved.ac/black_hana)
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackhane)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="http://mazandi.herokuapp.com/api?handle=black_hana&theme=warm"/>
+</div>
+  
+<div align="center">
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackhane)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
