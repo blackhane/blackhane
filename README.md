@@ -1,5 +1,7 @@
 ###개발자 공부를 하고 있는 박진휘의 깃허브입니다. (공사중)</p>
 ###최근에는 SpringBoot 기반의 백엔드 공부하고 있습니다.</p>
+###제 이력서가 궁금하시다면 [여기](https://github.com/blackhane/resume)를 눌러주세요~
+
 <div align="center">
   <p>Language</p>
 <img src="https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logoColor=white"> 
@@ -30,7 +32,6 @@
 <img src="https://img.shields.io/badge/JPA-6E6E6E?style=for-the-badge&logoColor=white">
 </div>
 
-###제 이력서가 궁금하시다면 [여기](https://github.com/blackhane/resume)를 눌러주세요~
 
 <div align="center">
   
