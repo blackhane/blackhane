@@ -34,7 +34,7 @@
 
 
 [![Solved.ac
-black_hana](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=black_hana)](https://solved.ac/black_hana)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackhane)](https://github.com/anuraghazra/github-readme-stats)
