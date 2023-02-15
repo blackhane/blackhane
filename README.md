@@ -40,15 +40,17 @@
 
 <div align="center">
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=black_hana)](https://solved.ac/black_hana)
-<img src="http://mazandi.herokuapp.com/api?handle=black_hana&theme=warm"/>
-  
-</div>
-
-<div align="center">
+  <p>| GitHub |</p>
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackhane)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
+<div align="center">
+  
+<p>| Backjoon (Solved.ac) |</p>
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=black_hana)](https://solved.ac/black_hana)
+  
+</div>
