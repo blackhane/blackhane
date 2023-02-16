@@ -2,7 +2,7 @@
   
   ### 개발자 공부를 하고 있는 박진휘의 깃허브입니다.
   ### 최근에는 SpringBoot 기반의 백엔드 공부하고 있습니다.
-  ### 제 이력서가 궁금하시다면 [여기](https://github.com/blackhane/resume)를 눌러주세요~
+  ### 제 이력서가 궁금하시다면 [여기](https://www.notion.so/9f67a93628ac4e0d840d966df80dff4b)를 눌러주세요~
   
 </br>
 
@@ -30,10 +30,9 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 </div>
 <div align="center"><br/>
-  <p>Other</p>
-<img src="https://img.shields.io/badge/JSP-6E6E6E?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/MyBatis-6E6E6E?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-6E6E6E?style=for-the-badge&logoColor=white">
+  <p>Communication</p>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 </div>
 
 <div><br/><br/></div>
