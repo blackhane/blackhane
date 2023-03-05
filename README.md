@@ -1,8 +1,8 @@
 <div align="center">
   
-  ### 개발자 공부를 하고 있는 박진휘의 깃허브입니다.
-  ### 최근에는 SpringBoot 기반의 백엔드 공부하고 있습니다.
-  ### 제 이력서가 궁금하시다면 [여기](https://ritzy-adapter-b93.notion.site/9f67a93628ac4e0d840d966df80dff4b)를 눌러주세요~
+  ### Parkjinhwi Github
+  #### 최근에는 SpringBoot 기반의 백엔드 공부하고 있습니다.
+  #### 제 이력서가 궁금하시다면 [여기](https://ritzy-adapter-b93.notion.site/9f67a93628ac4e0d840d966df80dff4b)를 눌러주세요~
   
 </br>
 
@@ -28,28 +28,4 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-</div>
-<div align="center"><br/>
-  <p>Communication</p>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-</div>
-
-<div><br/><br/></div>
-
-<div align="center">
-  
-  <p>| GitHub |</p>
-  
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackhane)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-<div align="center">
-  
-<p>| Backjoon (Solved.ac) |</p>
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=black_hana)](https://solved.ac/black_hana)
-  
 </div>
