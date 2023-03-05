@@ -2,7 +2,6 @@
   
   ### Parkjinhwi Github
   #### 최근에는 SpringBoot 기반의 백엔드 공부하고 있습니다.
-  #### 제 이력서가 궁금하시다면 [여기](https://ritzy-adapter-b93.notion.site/9f67a93628ac4e0d840d966df80dff4b)를 눌러주세요~
   
 </br>
 
